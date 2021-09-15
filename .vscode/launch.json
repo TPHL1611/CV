@@ -1,0 +1,26 @@
+{
+    "configurations": [
+
+        // {
+        //     "name": "Attach to Edge",
+        //     "port": 9222,
+        //     "request": "attach",
+        //     "type": "pwa-msedge",
+        //     "webRoot": "${workspaceFolder}"
+        // },
+    {
+        "name": "Launch Edge",
+        "request": "launch",
+        "type": "pwa-msedge",
+        "url": "http://localhost:5500",
+        "webRoot": "${workspaceFolder}"
+    },
+    // {
+    //     "type": "vscode-edge-devtools.debug",
+    //     "request": "launch",
+    //     "name": "Launch Microsoft Edge and open the Edge DevTools",
+    //     "url": "http://localhost:8080",
+    //     "webRoot": "${workspaceFolder}"
+    // }
+    ]
+} 

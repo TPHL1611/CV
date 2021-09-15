@@ -1,0 +1,54 @@
+:root {
+    --head-color: red;
+    --body-color: black;
+}
+
+.html{
+    font-size: 100%;
+}
+
+.name {
+    color: var(--head-color);   
+}
+
+.box {
+    width: 50%;
+    height: 30%;
+    box-sizing: border-box;
+    background-color: burlywood;
+}
+
+.introduction1 {
+    color: var(--body-color);
+    font-size: 1rem;
+    font-style: normal;
+}
+
+.education {
+    color: var(--head-color);
+}
+
+.education1 {
+    font-size: 1rem;
+}
+
+.skill {
+    color: var(--head-color);
+}
+
+.skill1 {
+    font-size: 1rem;
+    color: blue;
+}
+
+.hobby {
+    color: var(--head-color);
+}
+
+.experience {
+    color: var(--head-color);
+}
+
+.experience1 {
+    font-size: 1rem;
+}
