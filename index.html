@@ -6,70 +6,111 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Trần Phan Hải Long</title>
     <link rel="stylesheet" href="./style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body>
-    <!-- <div class="container">
-        <div class="box box-1">
-            <p>Box 1</p>
-            <p>Flex Item</p>
-        </div>
-        <div class="box box-2">
-            <p>Box 2</p>
-            <p> Flex Item 2</p>
-        </div>
-        <div class="box box-3">
-            <p>Box 3</p>
-            <p>Flex Item 3</p>
-        </div>
-    </div> -->
-    <div class="gioi-thieu">
-        <div class="box avatar">
-            <img title="Ảnh đại diện" src="" />
-        </div>
-        <div>
-            <h1 class="box name">TRẦN PHAN HẢI LONG</h1>
-            <h2 class="box introduction1">
-                <img src="img/mail.png">
-                tranphanhailong89@gmail.com <br />
-                <img src="img/user.png" />
-                Giới tính: Nam <br />
-                <img src="img/home.png" />
-                Địa chỉ: 58/165 Phan Chu Trinh, phường 24, quận Bình Thạnh, TP. Hồ Chí Minh <br />    
-                Mục tiêu nghề nghiệp <br />
-                Áp dụng kiến thức ...
-            </h2>
-        </div> 
-    </div>
-    <div>
-        <div>
-            <h1 class="education">HỌC VẤN</h1>
-            <h2 class="education1">
-                Đại học Tài chính - Marketing, Hệ thống thông tin quản lý <br />
-                8/2018 - 8/2022 <br />
-            Tốt nghiệp loại Giỏi, điểm trung bình 8.0
-            </h2>
-        </div>
-        <div>
-            <h1 class="skill">KỸ NĂNG</h1>
-            <li class="skill1">Tin học văn phòng - Sử dụng thành thạo các công cụ Word, Excel, PowerPoint</li>
-            <li class="skill1">Tiếng Anh - Ổn</li>
-            <li class="skill1">Lập trình - Ổn</li>
-        </div>
-        <div>
-            <h1 class="hobby">SỞ THÍCH</h1>
-            <h2 class="hobby1">Đá bóng:</h2>
-            <li class="hobby1">Tham gia hoạt động đá bóng hàng tuần.</li>
-        </div>
-        <div>
-            <h1 class="experience">KINH NGHIỆM LÀM VIỆC</h1>
-            <h2 class="experience1">
-                Cửa hàng Rau má Mix, Nhân viên partime <br />
-                05/2020 - 07/2020 <br />
-                BAEMIN - Ứng dụng giao đồ ăn, Nhân viên partime <br />
-                08/2020 - Hiện tại
-            </h2>
-        </div>
-    </div>
+    <div id="main">
+        <div id="wrapper">
+            <div class="header">
+                <div class="header__name">
+                    <p>TRẦN PHAN HẢI LONG</p>
+                    <p>THỰC TẬP SINH</p>
+                </div>
 
+                <div class="header__avatar">
+                    <img title="Ảnh đại diện" src="img/avatar2.png" /> <br />
+                </div>
+            </div>
+
+            <div class="content">
+                <div class="left-side">
+                    <div class="introduction introduction-separate">
+                        <div class="introduction-info">
+                            <i class="introduction-icon fas fa-user-alt"></i>
+                            Nam
+                        </div>
+                        <div class="introduction-info">
+                            <i class="introduction-icon fas fa-calendar-alt"></i>
+                            16/11/2000
+                        </div>
+                        <div class="introduction-info">
+                            <i class="introduction-icon fas fa-phone-alt"></i>
+                            0778586872
+                        </div>
+                        <div class="introduction-info">
+                            <i class="introduction-icon fas fa-envelope"></i>
+                            tranphanhailong89@gmail.com
+                        </div>
+                        <div class="introduction-info">
+                            <i class="introduction-icon fas fa-map-marker-alt"></i>
+                            58/165 Phan Chu Trinh, phường 24, quận Bình Thạnh, TP. Hồ Chí Minh
+                        </div>
+                    </div>
+                    <div class="introduction introduction-separate">
+                        <h1 class="introduction__label">KỸ NĂNG</h1>
+                        <ul>
+                            <li class="introduction__skill">Tin học văn phòng
+                            <ul>
+                                <li class="introduction__skill-desc">Sử dụng thành thạo các ứng dụng văn phòng</li>
+                            </ul>
+                            </li>
+                            <li class="introduction__skill">Lập trình cơ bản</li>
+                            <li class="introduction__skill">Thành thạo các công cụ
+                            <ul>
+                                <li class="introduction__skill-desc">Power Designer</li>
+                                <li class="introduction__skill-desc">Microsoft SQL Server</li>
+                                <li class="introduction__skill-desc">app.diagrams.net</li>
+                            </ul>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="introduction introduction-separate">
+                        <h1 class="introduction__label">SỞ THÍCH</h1>
+                        <ul>
+                            <li class="introduction__skill">Đọc
+                            <ul>
+                                <li class="introduction__skill-desc">Công nghệ thông tin, khoa học viễn tưởng.</li>
+                            </ul>
+                            </li>
+                        </ul>
+                        <ul>
+                            <li class="introduction__skill">Đá bóng
+                            <ul>
+                                <li class="introduction__skill-desc">Tham gia hoạt động đá bóng hàng tuần.</li>
+                            </ul>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="introduction">
+                        <h1 class="introduction__label">Thông tin thêm</h1>
+                        <ul>
+                            <li class="introduction__skill">Clone web Shopee</li>
+                            <li class="introduction__skill">Lập trình CV trên web</li>
+                            <li class="introduction__skill">Clone web W3Band</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="right-side">
+                    <div class="introduction introduction-sides">
+                        <h1 class="introduction__label">HỌC VẤN </h1>
+                        <ul>
+                            <li class="introduction__right">Đại học Tài chính - Marketing, Hệ thống thông tin quản lý</li>
+                            8/2018 - 8/2022
+                            <li class="introduction__right">Tốt nghiệp loại Giỏi, điểm trung bình 8.0</li>
+                        </ul>
+                    </div>
+                    <div class="introduction introduction-side">
+                        <h1 class="introduction__label">KINH NGHIỆM</h1>
+                        <ul>
+                            <li class="introduction__right">Cửa hàng Rau má Mix</li>
+                            Nhân viên partime, 05/2020 - 07/2020
+                            <li class="introduction__right">BAEMIN - Ứng dụng giao đồ ăn</li>
+                            Nhân viên partime, 08/2020 - 05/2021
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </body>
 </html>
