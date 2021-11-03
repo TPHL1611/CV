@@ -1,0 +1,49 @@
+
+/* Tablet */
+@media (min-width: 721px) and (max-width: 1023px) {
+
+}
+
+/* PC */
+@media (min-width: 1024px) {
+
+}
+
+/* Mobile */
+@media (max-width: 721px) {
+    .header {
+        padding: 30px 16px 0 16px;
+    }
+
+    .header__name {
+        font-size: 19px;
+    }
+
+    .header__avatar img {
+        width: 150px;
+    }
+    
+    .content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .left-side {
+        width: 100%;
+        padding: 0 16px;    ;
+        background-color: rgb(43, 55, 67);
+        color: var(--text-white);
+        flex: 1;
+    }
+
+    .right-side {
+        width: 100%;
+        background-color: rgb(237, 237, 237);
+        color: var(--text-black);
+        padding-left: 16px;
+    }
+
+    .introduction-side::before {
+        width: 170px;
+    }
+}
