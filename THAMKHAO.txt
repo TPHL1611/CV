@@ -1,0 +1,287 @@
+<div id="cv-layout-viewer">
+<div id="cvo-document-root">
+<div id="cvo-document" class="cvo-document">
+<div class="cvo-page">
+<div class="cvo-subpage">
+<div id="cvo-body">
+
+<div>
+<div class="header-space">
+<div class="left-space"></div>
+<div class="right-space"></div>
+</div>
+
+<div id="group-header" style="">
+
+<div class="short-profile-info">
+<div id="cvo-profile-fullname">TRẦN PHAN HẢI LONG</div>
+<div class="cvo-profile-title">
+<span id="cvo-profile-title">Nhân viên</span>
+</div>
+<div style="clear: both;"></div>
+</div>
+<img id="cvo-profile-avatar" src="https://static.topcv.vn/avatars/v545RcW9vF0M8eF1rz3V_613afc447570e_cvtpl.jpg?1631795927" value="v545RcW9vF0M8eF1rz3V_613afc447570e_cvtpl.jpg" alt="avatar">
+<div class="include-image">
+</div>
+<div class="avatar-wrapper">
+</div>
+<div style="clear: both;"></div>
+</div>
+
+<div style="clear: both;"></div>
+<div id="cvo-main">
+<div id="group-left">
+
+<div class="cvo-block" id="intro-section">
+<div class="block-content-left" id="block-intro-content">
+<div class="cvo-profile-info-row" id="cvo-profile-gender-wraper">
+<span class="cvo-profile-label">
+<i class="fa fa-user profile-icon"></i>
+</span>
+<span class="cvo-profile-info-value" id="cvo-profile-gender">
+Nam
+</span>
+</div>
+<div class="cvo-profile-info-row" id="cvo-profile-dob-wraper">
+<span class="cvo-profile-label">
+<i class="fa fa-calendar profile-icon"></i>
+</span>
+<span class="cvo-profile-info-value" id="cvo-profile-dob">
+16/11/2000
+</span>
+</div>
+<div class="cvo-profile-info-row" id="cvo-profile-phone-wraper">
+<span class="cvo-profile-label">
+<i class="fa fa-phone profile-icon"></i>
+</span>
+<span class="cvo-profile-info-value" id="cvo-profile-phone">0778586872</span>
+</div>
+<div class="cvo-profile-info-row" id="cvo-profile-email-wraper">
+<span class="cvo-profile-label">
+<i class="fa fa-envelope profile-icon"></i>
+</span>
+<span class="cvo-profile-info-value" id="cvo-profile-email">tranphanhailong89@gmail.com</span>
+</div>
+<div class="cvo-profile-info-row" id="cvo-profile-website-wraper">
+<span class="cvo-profile-label">
+<i class="fa fa-globe profile-icon"></i>
+</span>
+<span class="cvo-profile-info-value" id="cvo-profile-website"><a href="https://www.facebook.com/TPHL1611/" target="_blank" class="cvo-clickable-link">https://www.facebook.com/TPHL1611/</a></span>
+</div>
+<div class="cvo-profile-info-row" id="cvo-profile-address-wraper">
+<span class="cvo-profile-label">
+<i class="fa fa-map-marker profile-icon"></i>
+</span>
+<span class="cvo-profile-info-value" id="cvo-profile-address">58/165 Phan Chu Trinh, phường 24, quận Bình Thạnh, Hồ Chí Minh</span>
+</div>
+</div>
+</div>
+<div id="group-col-left">
+<div id="cvo-skillgroup" class="cvo-block">
+<div class="horizontal-line"></div>
+<div class="cvo-block-title">
+<span class="cvo-block-title-span">
+<span id="cvo-skillgroup-blocktitle">Các kỹ năng</span>
+</span>
+<div class="title-underline"></div>
+</div>
+<div class="block-content">
+<div id="skill-table" class="cvo-block-content">
+<div class="row">
+<div class="skill-area-title">
+<ul class="cvo-skillgroup-list">
+<li class="cvo-skillgroup-list-item">
+<span class="cvo-skillgroup-area cvo-time">Tin học văn phòng</span><br>
+</li>
+</ul>
+</div>
+<span class="cvo-skillgroup-skill-description">- Sử dụng thành thạo các công cụ Word, Excel</span>
+<div style="clear:both;"></div>
+</div>
+<div class="row">
+<div class="skill-area-title">
+<ul class="cvo-skillgroup-list">
+<li class="cvo-skillgroup-list-item">
+<span class="cvo-skillgroup-area cvo-time">Tiếng Anh</span><br>
+</li>
+</ul>
+</div>
+<span class="cvo-skillgroup-skill-description">- Khả năng giao tiếp Tiếng Anh tạm ổn</span>
+<div style="clear:both;"></div>
+</div>
+</div>
+</div>
+<div style="clear: both"></div>
+</div>
+<div id="cvo-interests" class="cvo-block cvo-block-content">
+<div class="horizontal-line"></div>
+<div class="cvo-block-title">
+<span class="cvo-block-title-span">
+<span id="cvo-interests-blocktitle">Sở thích</span>
+</span>
+<div class="title-underline"></div>
+</div>
+<div class="block-content">
+<div class="row">
+<span id="cvo-interests-interests">Đọc:<br>-&nbsp; Công nghệ thông tin, khoa học vũ trụ<br>Đá bóng:<br> - Tham gia hoạt động đá bóng hàng tuần</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="group-col-right">
+<div class="block-content">
+<div id="cvo-objective" class="cvo-block cvo-block-content">
+<div class="cvo-block-title">
+<span class="cvo-block-title-span">
+<span id="cvo-interests-objective">Mục tiêu nghề nghiệp</span>
+</span>
+</div>
+<div id="cvo-objective-objective" class="color-content">
+Trở thành lập trình viên giỏi, mang lại nhiều lợi ích cho công ty
+</div>
+</div>
+<div id="cvo-education" class="cvo-block">
+<div class="cvo-block-title">
+<span class="cvo-block-title-span">
+<span id="cvo-education-blocktitle">Học vấn</span>
+</span>
+<div class="title-underline"></div>
+</div>
+<div id="education-table" class="cvo-block-content">
+<div class="row">
+<div>
+<div class="cvo-title-wrapper">
+<ul>
+<li class="cvo-education-group-list-school">
+<span class="cvo-education-school">Đại học Tài chính - Marketing</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="row-content">
+<div class="row-title">
+<div class="cvo-education-time cvo-time-wraper">
+<div class="cvo-sub-label-left"><span class="cvo-education-title">Hệ thống thông tin quản lý</span></div>
+<div class="cvo-sub-label-right">
+<span class="cvo-education-start">10/2010</span>
+<span> - </span>
+<span class="cvo-education-end">05/2014</span>
+</div>
+</div>
+</div>
+<div class="row-details">
+<div class="cvo-education-details color-content">- -</div>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div style="clear: both"></div>
+</div>
+<div id="cvo-experience" class="cvo-block">
+<div class="cvo-block-title">
+<span class="cvo-block-title-span">
+<span id="cvo-experience-blocktitle">Kinh nghiệm làm việc</span>
+</span>
+<div class="title-underline"></div>
+</div>
+<div id="experience-table" class="cvo-block-content">
+ <div class="row">
+<div>
+<div class="cvo-experience-wrapper">
+<ul>
+<li>
+<span class="cvo-experience-company">Cửa hàng Rau má Mix</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="row-content">
+<div class="row-title">
+<div class="cvo-experience-company-wraper">
+<div class="cvo-sub-label-left"><span class="cvo-experience-position">Nhân viên bán hàng</span></div>
+<div class="cvo-sub-label-right">
+<span class="cvo-experience-start">03/2015</span>
+<span><b>&nbsp;-&nbsp;</b></span>
+<span class="cvo-experience-end">Hiện tại</span>
+</div>
+</div>
+</div>
+<div class="row-details">
+<div class="cvo-experience-details color-content"></div>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+<div class="row">
+<div>
+<div class="cvo-experience-wrapper">
+<ul>
+<li>
+<span class="cvo-experience-company">Ứng dụng giao hàng Baemin</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="row-content">
+<div class="row-title">
+<div class="cvo-experience-company-wraper">
+<div class="cvo-sub-label-left"><span class="cvo-experience-position">Nhân viên giao hàng</span></div>
+<div class="cvo-sub-label-right">
+<span class="cvo-experience-start">06/2014</span>
+<span><b>&nbsp;-&nbsp;</b></span>
+<span class="cvo-experience-end">02/2015</span>
+</div>
+</div>
+</div>
+<div class="row-details">
+<div class="cvo-experience-details color-content"></div>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+<div class="row">
+<div>
+<div class="cvo-experience-wrapper">
+<ul>
+<li>
+<span class="cvo-experience-company">Làm việc tự do</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="row-content">
+<div class="row-title">
+<div class="cvo-experience-company-wraper">
+<div class="cvo-sub-label-left"><span class="cvo-experience-position">Nhân viên tự do</span></div>
+<div class="cvo-sub-label-right">
+<span class="cvo-experience-start">06/2014</span>
+<span><b>&nbsp;-&nbsp;</b></span>
+<span class="cvo-experience-end">02/2015</span>
+</div>
+</div>
+</div>
+<div class="row-details">
+<div class="cvo-experience-details color-content">Lập trình trò chơi rắn săn mồi, đang phát triển website cá nhân</div>
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div style="clear: both"></div>
+</div>
+</div>
+</div>
+<div id="group-right"></div>
+<div style="clear: both;"></div>
+</div>
+<div style="clear: both;"></div>
+</div>
+</div>
+<div id="cv-watermark">© topcv.vn</div>
+</div>
+</div>
+</div>
+</div>
+</div>
